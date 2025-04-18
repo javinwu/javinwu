@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javinwu
-- 👀 I’m interested in machine learning, software/website design
+- 👀 I’m interested in software/website design
 - 🌱 My plan: Learn Java to help with my school Robotics, learn JS, HTML, and CSS
 - ⚡ Fun fact: i like mangos 
 
